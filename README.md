@@ -8,5 +8,4 @@ resume,
 etc
 ```
 
-Head over to https://mateuszBukowski.dev/ to check it life!
-Head over to https://mateusz-bukowski.dev/ to check it life!
+Head over to https://mateuszBukowski.dev/ or https://mateusz-bukowski.dev/ to check it life!
